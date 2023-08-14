@@ -1,6 +1,6 @@
 version: '3.8'
 
-services:  
+services:
   proxy:
     image: nginx
     container_name: proxy
